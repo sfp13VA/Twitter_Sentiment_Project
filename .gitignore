@@ -2,6 +2,7 @@
 /data
 data/judge-1377884607_tweet_product_company.csv
 data/*.csv
+*.csv
 
 # Junk Files
 .DS_Store
