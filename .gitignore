@@ -1,6 +1,9 @@
 # Data
 /data
+data/judge-1377884607_tweet_product_company.csv
+data/*.csv
 
 # Junk Files
 .DS_Store
 .ipynb_checkpoints
+
