@@ -6,12 +6,18 @@ Apple would like to evaluate public sentiment about its products as compared to 
 Our dataset of over 9,000 Tweets is sourced from CrowdFlower via data.world. Humans rated Tweet sentiment as positive, negative, or neither (neutral).
 
 # Exploratory Data Analysis
-/Users/buzzardsroostimac/Documents/Flatiron/Phase_4/twitter_sentiment_project/Product.png 
-/Users/buzzardsroostimac/Documents/Flatiron/Phase_4/twitter_sentiment_project/words.png 
+
+The data shows our company and producs generate a lot of chatter on Twitter.
+<img width="3028" height="2072" alt="Product" src="https://github.com/user-attachments/assets/0686bb50-1617-4625-8577-1b6c231bca74" />
+
+Even so, Google's Android ranke din the most frequent words contained in Tweets with positive sentiment, while our products did not rank in the top 15 words at all.
+<img width="3054" height="2160" alt="words" src="https://github.com/user-attachments/assets/84e5b711-fe36-4221-80d0-e26622c26884" />
+
 
 # Modeling and Evaluation
 We found that a Random Forest binary classifier produced the best modeling result.
-/Users/buzzardsroostimac/Documents/Flatiron/Phase_4/twitter_sentiment_project/rf_confusion_matrix.png
+<img width="2304" height="2043" alt="rf_confusion_matrix" src="https://github.com/user-attachments/assets/a6517f72-9493-4b1a-8648-8ccea5b58a59" />
+
 
 # Conclusion
 The Random Forst model demonstrates the best performace with a weighted average precision score of .71, correctly predicting Tweet sentiment 71% of the time.
