@@ -4,7 +4,7 @@ Apple would like to evaluate public sentiment about its products as compared to 
 
 # Data Understanding
 
-Our dataset of over 9,000 Tweets is sourced from CrowdFlower via data.world. Humans rated Tweet sentiment as positive, negative, or neither (neutral).  There is a significant class imbalane in the the majority of Tweets are labeled as neutral.
+Our dataset of over 9,000 Tweets is sourced from CrowdFlower via data.world. Humans rated Tweet sentiment as positive, negative, or neither (neutral).  There is a significant class imbalance in the the majority of Tweets are labeled as neutral.
 
 # Data Preparation
 
